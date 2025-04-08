@@ -1,0 +1,201 @@
+medication,diagnosis,drug_substitute
+Lisinopril,Hypertension,Enalapril
+Metformin,Type 2 Diabetes,Glipizide
+Levothyroxine,Hypothyroidism,Liothyronine
+Atorvastatin,Hypercholesterolemia,Rosuvastatin
+Amlodipine,Hypertension,Nifedipine
+Metoprolol,Arrhythmia,Atenolol
+Omeprazole,GERD,Pantoprazole
+Albuterol,Asthma,Levalbuterol
+Gabapentin,Neuropathic Pain,Pregabalin
+Hydrochlorothiazide,Hypertension,Chlorthalidone
+Escitalopram,Depression,Sertraline
+Sertraline,Anxiety Disorder,Paroxetine
+Montelukast,Asthma,Zafirlukast
+Prednisone,Rheumatoid Arthritis,Methylprednisolone
+Fluticasone,Allergic Rhinitis,Mometasone
+Loratadine,Seasonal Allergies,Cetirizine
+Furosemide,Edema,Torsemide
+Alprazolam,Panic Disorder,Clonazepam
+Warfarin,Atrial Fibrillation,Apixaban
+Pantoprazole,Peptic Ulcer,Esomeprazole
+Losartan,Hypertension,Valsartan
+Citalopram,Depression,Fluoxetine
+Amoxicillin,Bacterial Infection,Cephalexin
+Azithromycin,Respiratory Infection,Clarithromycin
+Bupropion,Depression,Venlafaxine
+Duloxetine,Fibromyalgia,Milnacipran
+Glipizide,Type 2 Diabetes,Glyburide
+Simvastatin,Hypercholesterolemia,Pravastatin
+Tramadol,Chronic Pain,Codeine
+Clonazepam,Seizure Disorder,Lorazepam
+Venlafaxine,Major Depressive Disorder,Desvenlafaxine
+Carvedilol,Heart Failure,Bisoprolol
+Meloxicam,Osteoarthritis,Celecoxib
+Fluoxetine,Depression,Paroxetine
+Ranitidine,Acid Reflux,Famotidine
+Clopidogrel,Coronary Artery Disease,Ticagrelor
+Rosuvastatin,Hypercholesterolemia,Pitavastatin
+Memantine,Alzheimer's Disease,Donepezil
+Donepezil,Dementia,Rivastigmine
+Tamsulosin,Benign Prostatic Hyperplasia,Alfuzosin
+Cetirizine,Chronic Urticaria,Fexofenadine
+Doxycycline,Acne,Minocycline
+Hydroxyzine,Anxiety,Buspirone
+Cyclobenzaprine,Muscle Spasm,Baclofen
+Lorazepam,Insomnia,Temazepam
+Amitriptyline,Migraine,Nortriptyline
+Trazodone,Insomnia,Mirtazapine
+Paroxetine,Panic Disorder,Fluvoxamine
+Diazepam,Muscle Spasm,Methocarbamol
+Methylprednisolone,Inflammatory Conditions,Dexamethasone
+Zolpidem,Insomnia,Eszopiclone
+Naproxen,Inflammatory Pain,Ibuprofen
+Valsartan,Hypertension,Irbesartan
+Insulin Glargine,Type 1 Diabetes,Insulin Detemir
+Pravastatin,Hypercholesterolemia,Lovastatin
+Propranolol,Migraine Prevention,Nadolol
+Pioglitazone,Type 2 Diabetes,Rosiglitazone
+Levofloxacin,Pneumonia,Moxifloxacin
+Famotidine,Gastric Ulcer,Nizatidine
+Spironolactone,Hyperaldosteronism,Eplerenone
+Sumatriptan,Migraine,Rizatriptan
+Metronidazole,Bacterial Infection,Tinidazole
+Clindamycin,Skin Infection,Erythromycin
+Lamotrigine,Bipolar Disorder,Oxcarbazepine
+Celecoxib,Rheumatoid Arthritis,Diclofenac
+Pregabalin,Neuropathic Pain,Gabapentin
+Fexofenadine,Allergic Rhinitis,Levocetirizine
+Clonidine,Hypertension,Guanfacine
+Irbesartan,Hypertension,Candesartan
+Sildenafil,Pulmonary Hypertension,Tadalafil
+Olmesartan,Hypertension,Telmisartan
+Risperidone,Schizophrenia,Olanzapine
+Duloxetine,Neuropathic Pain,Amitriptyline
+Quetiapine,Bipolar Disorder,Aripiprazole
+Levetiracetam,Epilepsy,Topiramate
+Methotrexate,Psoriasis,Cyclosporine
+Hydrocodone,Acute Pain,Oxycodone
+Topiramate,Epilepsy,Zonisamide
+Potassium Chloride,Hypokalemia,Potassium Citrate
+Loratadine,Allergic Rhinitis,Desloratadine
+Oxycodone,Severe Pain,Morphine
+Ibuprofen,Inflammatory Pain,Naproxen
+Acetaminophen,Mild Pain,Ibuprofen
+Cephalexin,Urinary Tract Infection,Nitrofurantoin
+Ciprofloxacin,Bacterial Infection,Levofloxacin
+Fluconazole,Fungal Infection,Itraconazole
+Sertraline,Post-Traumatic Stress Disorder,Paroxetine
+Risperidone,Autism Spectrum Disorder,Aripiprazole
+Lithium,Bipolar Disorder,Valproic Acid
+Phenytoin,Seizure Disorder,Carbamazepine
+Verapamil,Hypertension,Diltiazem
+Buspirone,Generalized Anxiety Disorder,Hydroxyzine
+Phenobarbital,Epilepsy,Primidone
+Diltiazem,Hypertension,Verapamil
+Atomoxetine,ADHD,Guanfacine
+Baclofen,Muscle Spasticity,Tizanidine
+Digoxin,Heart Failure,Milrinone
+Penicillin,Strep Throat,Azithromycin
+Sertraline,Obsessive-Compulsive Disorder,Fluvoxamine
+Acyclovir,Herpes Simplex,Valacyclovir
+Estradiol,Menopausal Symptoms,Conjugated Estrogens
+Sulfamethoxazole,Urinary Tract Infection,Nitrofurantoin
+Sitagliptin,Type 2 Diabetes,Linagliptin
+Aripiprazole,Schizophrenia,Ziprasidone
+Fluvastatin,Hypercholesterolemia,Lovastatin
+Hydralazine,Resistant Hypertension,Minoxidil
+Morphine,Terminal Cancer Pain,Fentanyl
+Nifedipine,Hypertension,Felodipine
+Fentanyl,Chronic Pain,Hydromorphone
+Amlodipine,Hypertension,Felodipine
+Cefuroxime,Sinus Infection,Amoxicillin-Clavulanate
+Escitalopram,Anxiety Disorder,Citalopram
+Valproic Acid,Bipolar Disorder,Carbamazepine
+Telmisartan,Hypertension,Olmesartan
+Atenolol,Angina,Metoprolol
+Clomipramine,Obsessive-Compulsive Disorder,Fluvoxamine
+Mirtazapine,Major Depressive Disorder,Trazodone
+Esomeprazole,GERD,Lansoprazole
+Testosterone,Hypogonadism,Testosterone Cypionate
+Misoprostol,Gastric Ulcer Prevention,Sucralfate
+Ramipril,Heart Failure,Perindopril
+Nitrofurantoin,Urinary Tract Infection,Trimethoprim
+Glyburide,Type 2 Diabetes,Glimepiride
+Nitroglycerin,Angina,Isosorbide Dinitrate
+Alendronate,Osteoporosis,Risedronate
+Diclofenac,Osteoarthritis,Meloxicam
+Olanzapine,Schizophrenia,Quetiapine
+Erythromycin,Bacterial Infection,Azithromycin
+Nortriptyline,Neuropathic Pain,Desipramine
+Quinapril,Hypertension,Benazepril
+Paroxetine,Social Anxiety Disorder,Sertraline
+Sucralfate,Duodenal Ulcer,Bismuth Subsalicylate
+Clarithromycin,H. Pylori Infection,Azithromycin
+Etanercept,Psoriatic Arthritis,Adalimumab
+Adalimumab,Crohn's Disease,Certolizumab
+Infliximab,Ulcerative Colitis,Vedolizumab
+Salmeterol,COPD,Formoterol
+Tiotropium,COPD,Umeclidinium
+Ipratropium,Asthma,Glycopyrrolate
+Budesonide,Asthma,Fluticasone
+Colchicine,Gout,Probenecid
+Allopurinol,Gout,Febuxostat
+Finasteride,Androgenetic Alopecia,Dutasteride
+Dutasteride,Benign Prostatic Hyperplasia,Finasteride
+Candesartan,Hypertension,Losartan
+Doxazosin,Hypertension,Terazosin
+Amiodarone,Cardiac Arrhythmia,Sotalol
+Tolterodine,Overactive Bladder,Oxybutynin
+Solifenacin,Urinary Incontinence,Darifenacin
+Dabigatran,Deep Vein Thrombosis,Rivaroxaban
+Rivaroxaban,Pulmonary Embolism,Apixaban
+Apixaban,Stroke Prevention,Edoxaban
+Warfarin,Atrial Fibrillation,Rivaroxaban
+Prasugrel,Acute Coronary Syndrome,Ticagrelor
+Ticagrelor,Coronary Artery Disease,Clopidogrel
+Enoxaparin,Thromboembolism Prophylaxis,Dalteparin
+Raloxifene,Osteoporosis,Bazedoxifene
+Calcitonin,Paget's Disease,Alendronate
+Cinacalcet,Hyperparathyroidism,Paricalcitol
+Sevelamer,Hyperphosphatemia,Lanthanum Carbonate
+Linagliptin,Type 2 Diabetes,Saxagliptin
+Empagliflozin,Type 2 Diabetes,Canagliflozin
+Dapagliflozin,Type 2 Diabetes,Ertugliflozin
+Liraglutide,Type 2 Diabetes,Dulaglutide
+Semaglutide,Type 2 Diabetes,Liraglutide
+Dulaglutide,Type 2 Diabetes,Exenatide
+Exenatide,Type 2 Diabetes,Semaglutide
+Insulin Aspart,Type 1 Diabetes,Insulin Lispro
+Insulin Detemir,Type 1 Diabetes,Insulin Glargine
+Insulin Lispro,Type 1 Diabetes,Insulin Aspart
+Prazosin,Nightmares in PTSD,Doxazosin
+Minoxidil,Alopecia,Finasteride
+Latanoprost,Glaucoma,Travoprost
+Timolol,Glaucoma,Betaxolol
+Brimonidine,Glaucoma,Apraclonidine
+Dorzolamide,Glaucoma,Brinzolamide
+Travoprost,Glaucoma,Bimatoprost
+Bimatoprost,Glaucoma,Latanoprost
+Carbidopa/Levodopa,Parkinson's Disease,Amantadine
+Entacapone,Parkinson's Disease,Tolcapone
+Rasagiline,Parkinson's Disease,Selegiline
+Pramipexole,Parkinson's Disease,Ropinirole
+Ropinirole,Parkinson's Disease,Rotigotine
+Amantadine,Parkinson's Disease,Pramipexole
+Rivastigmine,Alzheimer's Disease,Galantamine
+Galantamine,Alzheimer's Disease,Donepezil
+Modafinil,Narcolepsy,Armodafinil
+Isotretinoin,Severe Acne,Adapalene
+Tretinoin,Acne,Tazarotene
+Benzoyl Peroxide,Acne,Clindamycin
+Tacrolimus,Eczema,Pimecrolimus
+Pimecrolimus,Atopic Dermatitis,Crisaborole
+Clobetasol,Psoriasis,Halobetasol
+Betamethasone,Dermatitis,Mometasone
+Hydrocortisone,Eczema,Desonide
+Metformin,Type 2 Diabetes,Acarbose
+Tamoxifen,Breast Cancer,Raloxifene
+Anastrozole,Breast Cancer,Letrozole
+Letrozole,Breast Cancer,Exemestane
+Exemestane,Breast Cancer,Anastrozole

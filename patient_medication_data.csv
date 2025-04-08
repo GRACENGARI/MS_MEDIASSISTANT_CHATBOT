@@ -1,0 +1,201 @@
+patient_id,medicine_issued,gender,date,diagnosis
+P10045,Lisinopril,M,2024-03-15,Hypertension
+P10046,Metformin,F,2024-03-15,Type 2 Diabetes
+P10047,Levothyroxine,F,2024-03-16,Hypothyroidism
+P10048,Atorvastatin,M,2024-03-16,Hypercholesterolemia
+P10049,Amlodipine,F,2024-03-16,Hypertension
+P10050,Metoprolol,M,2024-03-17,Arrhythmia
+P10051,Omeprazole,F,2024-03-17,GERD
+P10052,Albuterol,M,2024-03-17,Asthma
+P10053,Gabapentin,F,2024-03-18,Neuropathic Pain
+P10054,Hydrochlorothiazide,M,2024-03-18,Hypertension
+P10055,Escitalopram,F,2024-03-18,Depression
+P10056,Sertraline,M,2024-03-19,Anxiety Disorder
+P10057,Montelukast,F,2024-03-19,Asthma
+P10058,Prednisone,M,2024-03-19,Rheumatoid Arthritis
+P10059,Fluticasone,F,2024-03-20,Allergic Rhinitis
+P10060,Loratadine,M,2024-03-20,Seasonal Allergies
+P10061,Furosemide,F,2024-03-20,Edema
+P10062,Alprazolam,M,2024-03-21,Panic Disorder
+P10063,Warfarin,F,2024-03-21,Atrial Fibrillation
+P10064,Pantoprazole,M,2024-03-21,Peptic Ulcer
+P10065,Losartan,F,2024-03-22,Hypertension
+P10066,Citalopram,M,2024-03-22,Depression
+P10067,Amoxicillin,F,2024-03-22,Bacterial Infection
+P10068,Azithromycin,M,2024-03-23,Respiratory Infection
+P10069,Bupropion,F,2024-03-23,Depression
+P10070,Duloxetine,M,2024-03-23,Fibromyalgia
+P10071,Glipizide,F,2024-03-24,Type 2 Diabetes
+P10072,Simvastatin,M,2024-03-24,Hypercholesterolemia
+P10073,Tramadol,F,2024-03-24,Chronic Pain
+P10074,Clonazepam,M,2024-03-25,Seizure Disorder
+P10075,Venlafaxine,F,2024-03-25,Major Depressive Disorder
+P10076,Carvedilol,M,2024-03-25,Heart Failure
+P10077,Meloxicam,F,2024-03-26,Osteoarthritis
+P10078,Fluoxetine,M,2024-03-26,Depression
+P10079,Ranitidine,F,2024-03-26,Acid Reflux
+P10080,Clopidogrel,M,2024-03-27,Coronary Artery Disease
+P10081,Rosuvastatin,F,2024-03-27,Hypercholesterolemia
+P10082,Memantine,M,2024-03-27,Alzheimer's Disease
+P10083,Donepezil,F,2024-03-28,Dementia
+P10084,Tamsulosin,M,2024-03-28,Benign Prostatic Hyperplasia
+P10085,Cetirizine,F,2024-03-28,Chronic Urticaria
+P10086,Doxycycline,M,2024-03-29,Acne
+P10087,Hydroxyzine,F,2024-03-29,Anxiety
+P10088,Cyclobenzaprine,M,2024-03-29,Muscle Spasm
+P10089,Lorazepam,F,2024-03-30,Insomnia
+P10090,Amitriptyline,M,2024-03-30,Migraine
+P10091,Trazodone,F,2024-03-30,Insomnia
+P10092,Paroxetine,M,2024-03-31,Panic Disorder
+P10093,Diazepam,F,2024-03-31,Muscle Spasm
+P10094,Methylprednisolone,M,2024-03-31,Inflammatory Conditions
+P10095,Zolpidem,F,2024-04-01,Insomnia
+P10096,Naproxen,M,2024-04-01,Inflammatory Pain
+P10097,Valsartan,F,2024-04-01,Hypertension
+P10098,Insulin Glargine,M,2024-04-02,Type 1 Diabetes
+P10099,Pravastatin,F,2024-04-02,Hypercholesterolemia
+P10100,Propranolol,M,2024-04-02,Migraine Prevention
+P10101,Pioglitazone,F,2024-04-03,Type 2 Diabetes
+P10102,Levofloxacin,M,2024-04-03,Pneumonia
+P10103,Famotidine,F,2024-04-03,Gastric Ulcer
+P10104,Spironolactone,M,2024-04-04,Hyperaldosteronism
+P10105,Sumatriptan,F,2024-04-04,Migraine
+P10106,Metronidazole,M,2024-04-04,Bacterial Infection
+P10107,Clindamycin,F,2024-04-05,Skin Infection
+P10108,Lamotrigine,M,2024-04-05,Bipolar Disorder
+P10109,Celecoxib,F,2024-04-05,Rheumatoid Arthritis
+P10110,Pregabalin,M,2024-04-06,Neuropathic Pain
+P10111,Fexofenadine,F,2024-04-06,Allergic Rhinitis
+P10112,Clonidine,M,2024-04-06,Hypertension
+P10113,Irbesartan,F,2024-04-07,Hypertension
+P10114,Sildenafil,M,2024-04-07,Pulmonary Hypertension
+P10115,Olmesartan,F,2024-04-07,Hypertension
+P10116,Risperidone,M,2024-04-08,Schizophrenia
+P10117,Cymbalta,F,2024-04-08,Neuropathic Pain
+P10118,Quetiapine,M,2024-04-08,Bipolar Disorder
+P10119,Levetiracetam,F,2024-04-09,Epilepsy
+P10120,Methotrexate,M,2024-04-09,Psoriasis
+P10121,Hydrocodone,F,2024-04-09,Acute Pain
+P10122,Topiramate,M,2024-04-10,Epilepsy
+P10123,Potassium Chloride,F,2024-04-10,Hypokalemia
+P10124,Zyrtec,M,2024-04-10,Allergic Rhinitis
+P10125,Oxycodone,F,2024-04-11,Severe Pain
+P10126,Ibuprofen,M,2024-04-11,Inflammatory Pain
+P10127,Acetaminophen,F,2024-04-11,Mild Pain
+P10128,Cefalexin,M,2024-04-12,Urinary Tract Infection
+P10129,Ciprofloxacin,F,2024-04-12,Bacterial Infection
+P10130,Fluconazole,M,2024-04-12,Fungal Infection
+P10131,Sertraline,F,2024-04-13,Post-Traumatic Stress Disorder
+P10132,Risperdal,M,2024-04-13,Autism Spectrum Disorder
+P10133,Lithium,F,2024-04-13,Bipolar Disorder
+P10134,Phenytoin,M,2024-04-14,Seizure Disorder
+P10135,Verapamil,F,2024-04-14,Hypertension
+P10136,Buspirone,M,2024-04-14,Generalized Anxiety Disorder
+P10137,Phenobarbital,F,2024-04-15,Epilepsy
+P10138,Diltiazem,M,2024-04-15,Hypertension
+P10139,Atomoxetine,F,2024-04-15,ADHD
+P10140,Baclofen,M,2024-04-16,Muscle Spasticity
+P10141,Digoxin,F,2024-04-16,Heart Failure
+P10142,Penicillin,M,2024-04-16,Strep Throat
+P10143,Zoloft,F,2024-04-17,Obsessive-Compulsive Disorder
+P10144,Acyclovir,M,2024-04-17,Herpes Simplex
+P10145,Estradiol,F,2024-04-17,Menopausal Symptoms
+P10146,Sulfamethoxazole,M,2024-04-18,Urinary Tract Infection
+P10147,Sitagliptin,F,2024-04-18,Type 2 Diabetes
+P10148,Aripiprazole,M,2024-04-18,Schizophrenia
+P10149,Fluvastatin,F,2024-04-19,Hypercholesterolemia
+P10150,Hydralazine,M,2024-04-19,Resistant Hypertension
+P10151,Morphine,F,2024-04-19,Terminal Cancer Pain
+P10152,Nifedipine,M,2024-04-20,Hypertension
+P10153,Fentanyl,F,2024-04-20,Chronic Pain
+P10154,Norvasc,M,2024-04-20,Hypertension
+P10155,Cefuroxime,F,2024-04-21,Sinus Infection
+P10156,Escitalopram,M,2024-04-21,Anxiety Disorder
+P10157,Valproic Acid,F,2024-04-21,Bipolar Disorder
+P10158,Telmisartan,M,2024-04-22,Hypertension
+P10159,Atenolol,F,2024-04-22,Angina
+P10160,Clomipramine,M,2024-04-22,Obsessive-Compulsive Disorder
+P10161,Mirtazapine,F,2024-04-23,Major Depressive Disorder
+P10162,Esomeprazole,M,2024-04-23,GERD
+P10163,Testosterone,F,2024-04-23,Hypogonadism
+P10164,Misoprostol,M,2024-04-24,Gastric Ulcer Prevention
+P10165,Ramipril,F,2024-04-24,Heart Failure
+P10166,Nitrofurantoin,M,2024-04-24,Urinary Tract Infection
+P10167,Glyburide,F,2024-04-25,Type 2 Diabetes
+P10168,Nitroglycerin,M,2024-04-25,Angina
+P10169,Alendronate,F,2024-04-25,Osteoporosis
+P10170,Diclofenac,M,2024-04-26,Osteoarthritis
+P10171,Olanzapine,F,2024-04-26,Schizophrenia
+P10172,Erythromycin,M,2024-04-26,Bacterial Infection
+P10173,Nortriptyline,F,2024-04-27,Neuropathic Pain
+P10174,Quinapril,M,2024-04-27,Hypertension
+P10175,Paxil,F,2024-04-27,Social Anxiety Disorder
+P10176,Sucralfate,M,2024-04-28,Duodenal Ulcer
+P10177,Clarithromycin,F,2024-04-28,H. Pylori Infection
+P10178,Etanercept,M,2024-04-28,Psoriatic Arthritis
+P10179,Adalimumab,F,2024-04-29,Crohn's Disease
+P10180,Infliximab,M,2024-04-29,Ulcerative Colitis
+P10181,Salmeterol,F,2024-04-29,COPD
+P10182,Tiotropium,M,2024-04-30,COPD
+P10183,Ipratropium,F,2024-04-30,Asthma
+P10184,Budesonide,M,2024-04-30,Asthma
+P10185,Colchicine,F,2024-05-01,Gout
+P10186,Allopurinol,M,2024-05-01,Gout
+P10187,Finasteride,F,2024-05-01,Androgenetic Alopecia
+P10188,Dutasteride,M,2024-05-02,Benign Prostatic Hyperplasia
+P10189,Candesartan,F,2024-05-02,Hypertension
+P10190,Doxazosin,M,2024-05-02,Hypertension
+P10191,Amiodarone,F,2024-05-03,Cardiac Arrhythmia
+P10192,Tolterodine,M,2024-05-03,Overactive Bladder
+P10193,Solifenacin,F,2024-05-03,Urinary Incontinence
+P10194,Dabigatran,M,2024-05-04,Deep Vein Thrombosis
+P10195,Rivaroxaban,F,2024-05-04,Pulmonary Embolism
+P10196,Apixaban,M,2024-05-04,Stroke Prevention
+P10197,Warfarin,F,2024-05-05,Atrial Fibrillation
+P10198,Prasugrel,M,2024-05-05,Acute Coronary Syndrome
+P10199,Ticagrelor,F,2024-05-05,Coronary Artery Disease
+P10200,Enoxaparin,M,2024-05-06,Thromboembolism Prophylaxis
+P10201,Raloxifene,F,2024-05-06,Osteoporosis
+P10202,Calcitonin,M,2024-05-06,Paget's Disease
+P10203,Cinacalcet,F,2024-05-07,Hyperparathyroidism
+P10204,Sevelamer,M,2024-05-07,Hyperphosphatemia
+P10205,Linagliptin,F,2024-05-07,Type 2 Diabetes
+P10206,Empagliflozin,M,2024-05-08,Type 2 Diabetes
+P10207,Dapagliflozin,F,2024-05-08,Type 2 Diabetes
+P10208,Liraglutide,M,2024-05-08,Type 2 Diabetes
+P10209,Semaglutide,F,2024-05-09,Type 2 Diabetes
+P10210,Dulaglutide,M,2024-05-09,Type 2 Diabetes
+P10211,Exenatide,F,2024-05-09,Type 2 Diabetes
+P10212,Insulin Aspart,M,2024-05-10,Type 1 Diabetes
+P10213,Insulin Detemir,F,2024-05-10,Type 1 Diabetes
+P10214,Insulin Lispro,M,2024-05-10,Type 1 Diabetes
+P10215,Prazosin,F,2024-05-11,Nightmares in PTSD
+P10216,Minoxidil,M,2024-05-11,Alopecia
+P10217,Latanoprost,F,2024-05-11,Glaucoma
+P10218,Timolol,M,2024-05-12,Glaucoma
+P10219,Brimonidine,F,2024-05-12,Glaucoma
+P10220,Dorzolamide,M,2024-05-12,Glaucoma
+P10221,Travoprost,F,2024-05-13,Glaucoma
+P10222,Bimatoprost,M,2024-05-13,Glaucoma
+P10223,Carbidopa/Levodopa,F,2024-05-13,Parkinson's Disease
+P10224,Entacapone,M,2024-05-14,Parkinson's Disease
+P10225,Rasagiline,F,2024-05-14,Parkinson's Disease
+P10226,Pramipexole,M,2024-05-14,Parkinson's Disease
+P10227,Ropinirole,F,2024-05-15,Parkinson's Disease
+P10228,Amantadine,M,2024-05-15,Parkinson's Disease
+P10229,Rivastigmine,F,2024-05-15,Alzheimer's Disease
+P10230,Galantamine,M,2024-05-16,Alzheimer's Disease
+P10231,Modafinil,F,2024-05-16,Narcolepsy
+P10232,Isotretinoin,M,2024-05-16,Severe Acne
+P10233,Tretinoin,F,2024-05-17,Acne
+P10234,Benzoyl Peroxide,M,2024-05-17,Acne
+P10235,Tacrolimus,F,2024-05-17,Eczema
+P10236,Pimecrolimus,M,2024-05-18,Atopic Dermatitis
+P10237,Clobetasol,F,2024-05-18,Psoriasis
+P10238,Betamethasone,M,2024-05-18,Dermatitis
+P10239,Hydrocortisone,F,2024-05-19,Eczema
+P10240,Metformin,M,2024-05-19,Type 2 Diabetes
+P10241,Tamoxifen,F,2024-05-19,Breast Cancer
+P10242,Anastrozole,M,2024-05-20,Breast Cancer
+P10243,Letrozole,F,2024-05-20,Breast Cancer
+P10244,Exemestane,M,2024-05-20,Breast Cancer
